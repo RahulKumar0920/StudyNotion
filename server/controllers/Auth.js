@@ -1,0 +1,4 @@
+//sendOTP
+//singUp
+//logIn
+//changePassword
